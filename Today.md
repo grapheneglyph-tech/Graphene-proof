@@ -1,6 +1,6 @@
 # graphene-proof / TODAY.md
 
-**What it is**  
+**What it is** 
 A human-verified torsion stack: breath → HRV → intention → on-chain glyph etched into hexagonal carbon memory.
 
 **Why graphene**  
